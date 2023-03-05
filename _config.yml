@@ -23,35 +23,35 @@ links:
     URL: https://wa.me
     Username: '+558396004966'
     Color: '#590219'
-    Icon-Class: fab fa-facebook
+    Icon-Class: fab fa-whatsapp
 
     # ATENDIMENTO VIP MAQUIAGEM
   - Name: ATENDIMENTO VIP MAQUIAGEM
     URL: https://wa.me
     Username: '+558396004966'
     Color: '#590219'
-    Icon-Class: fab fa-instagram
+    Icon-Class: fab fa-whatsapp
 
     # PHOTO BEATY
   - Name: PHOTO BEATY
     URL: https://wa.me
     Username: '+558396004966'
     Color: '#590219'
-    Icon-Class: fab fa-twitter
+    Icon-Class: fab fa-whatsapp
 
     # MÉTODO AUTOBEATY
   - Name: MÉTODO AUTOBEATY
     URL: https://wa.me
     Username: '+558396004966'
     Color: '#590219'
-    Icon-Class: fa fa-calendar-check
+    Icon-Class: fab fa-whatsapp
 
     # CURSO VIP AUTOMAQUIAGEM
   - Name: CURSO VIP AUTOMAQUIAGEM
     URL: https://wa.me
     Username: '+558396004966'
     Color: '#590219'
-    Icon-Class: fas fa-hand-paper -mt-0.5
+    Icon-Class: fab fa-whatsapp
 
   #   # WHATSAPP
   # - Name: WhatsApp
