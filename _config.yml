@@ -20,6 +20,7 @@ links:
     
     # BUSINESS WOMAN
   - Name: BUSINESS WOMAN
+    Description:
     URL: https://wa.me
     Username: '+558396004966'
     Color: '#590219'
@@ -27,6 +28,7 @@ links:
 
     # ATENDIMENTO VIP MAQUIAGEM
   - Name: ATENDIMENTO VIP MAQUIAGEM
+    Description: Lorem Ipsum is simply dummy text.
     URL: https://wa.me
     Username: '+558396004966'
     Color: '#590219'
@@ -34,6 +36,7 @@ links:
 
     # PHOTO BEATY
   - Name: PHOTO BEATY
+    Description: Lorem Ipsum is simply dummy text.
     URL: https://wa.me
     Username: '+558396004966'
     Color: '#590219'
@@ -41,6 +44,7 @@ links:
 
     # MÉTODO AUTOBEATY
   - Name: MÉTODO AUTOBEATY
+    Description: Lorem Ipsum is simply dummy text.
     URL: https://wa.me
     Username: '+558396004966'
     Color: '#590219'
@@ -48,6 +52,7 @@ links:
 
     # CURSO VIP AUTOMAQUIAGEM
   - Name: CURSO VIP AUTOMAQUIAGEM
+    Description: Lorem Ipsum is simply dummy text.
     URL: https://wa.me
     Username: '+558396004966'
     Color: '#590219'
@@ -55,6 +60,7 @@ links:
 
   #   # WHATSAPP
   # - Name: WhatsApp
+  #   Description: Lorem Ipsum is simply dummy text. 
   #   URL: https://wa.me
   #   Username: '+1123456789'
   #   Color: '#25d366'
