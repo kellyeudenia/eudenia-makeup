@@ -10,6 +10,9 @@ Image_URL: https://www.kellyeudenia.com.br/assets/images/me.jpg
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://source.unsplash.com/random
 
+# LOGO
+logo: https://www.kellyeudenia.com.br/assets/images/logo.jpg
+
 # SOCIAL MEDIA
 links:
 
