@@ -1,2 +1,4 @@
 # Landpage Eudenia Makeup:lipstick:
-Repositório com arquivos da Landpage de vendas do Método AutoBeauty por Kely Eudenia Makeup.
+Repositório com arquivos da página de Kely Eudenia Beaty Makeup.
+
+Base Template Made by Harsh Trivedi
