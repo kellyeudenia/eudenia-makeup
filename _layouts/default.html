@@ -15,13 +15,13 @@ layout: compress
             <div class="bg-transparent h-full min-w-full absolute z-10"
                 style="background-image: url({{site.Cover_Image}}); background-position: center; background-size: cover;">
             </div>
-            <img id="image"
-            class="logo-center"
-            src="https://images.weserv.nl/?url=https://www.kellyeudenia.com.br/assets/images/kely.jpg&h=800&w=800&dpr=1&fit=cover"
-            onError="this.onerror=null;this.src='https://github.com/{{site.github_username}}.png';"
-            alt="{{site.name}}">
             <div class="bg-transparent"></div>
             <span class="text-center z-30">
+                <img id="image"
+                    class="logo-center"
+                    src="https://images.weserv.nl/?url={{site.Image_URL}}&h=800&w=800&dpr=1&fit=cover"
+                    onError="this.onerror=null;this.src='https://github.com/{{site.github_username}}.png';"
+                    alt="{{site.name}}">
                 <br>
                 <h1 class="text-5xl text-center font-semibold mt-3 mx-auto"><img class="logo-center" src="{{site.logo}}" alt="{{site.name}}"></h1>
                 <hr class="my-2 opacity-25">
