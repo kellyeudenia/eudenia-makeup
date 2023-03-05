@@ -18,38 +18,38 @@ links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
-    # FACEBOOK
-  - Name: Business Woman
-    URL: https://www.facebook.com
-    Username: harsh98trivedi
+    # BUSINESS WOMAN
+  - Name: BUSINESS WOMAN
+    URL: https://wa.me
+    Username: '+558396004966'
     Color: '#590219'
     Icon-Class: fab fa-facebook
 
-    # INSTAGRAM
+    # ATENDIMENTO VIP MAQUIAGEM
   - Name: ATENDIMENTO VIP MAQUIAGEM
-    URL: https://www.instagram.com
-    Username: harsh98trivedi
+    URL: https://wa.me
+    Username: '+558396004966'
     Color: '#590219'
     Icon-Class: fab fa-instagram
 
-    # TWITTER
+    # PHOTO BEATY
   - Name: PHOTO BEATY
-    URL: https://twitter.com
-    Username: harsh98trivedi
+    URL: https://wa.me
+    Username: '+558396004966'
     Color: '#590219'
     Icon-Class: fab fa-twitter
 
-    # Cal.com
+    # MÉTODO AUTOBEATY
   - Name: MÉTODO AUTOBEATY
-    URL: https://cal.com
-    Username: harshtrivedi
+    URL: https://wa.me
+    Username: '+558396004966'
     Color: '#590219'
     Icon-Class: fa fa-calendar-check
 
-    # CLUBHOUSE
+    # CURSO VIP AUTOMAQUIAGEM
   - Name: CURSO VIP AUTOMAQUIAGEM
-    URL: https://www.clubhouse.com
-    Username: '@harsh98trivedi'
+    URL: https://wa.me
+    Username: '+558396004966'
     Color: '#590219'
     Icon-Class: fas fa-hand-paper -mt-0.5
 
