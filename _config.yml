@@ -19,8 +19,8 @@ links:
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
     # BUSINESS WOMAN
-  - Name: BUSINESS WOMAN
-    Description: Lorem Ipsum is simply dummy text.
+  - Name: MAQUIAGEM BUSINESS WOMAN
+    Description: Para você aprender minha maquiagem business woman com acabamento profissional sem gastar horas em frente ao espelho. Saiba mais.
     URL: https://wa.me
     Username: '+558396004966'
     Color: '#590219'
@@ -28,31 +28,31 @@ links:
 
     # ATENDIMENTO VIP MAQUIAGEM
   - Name: ATENDIMENTO VIP MAQUIAGEM
-    Description: Lorem Ipsum is simply dummy text.
+    Description: Para se sentir confiante, com naturalidade, harmonia e conforto no seu evento. Saiba mais.
     URL: https://wa.me
     Username: '+558396004966'
     Color: '#590219'
     Icon-Class: fab fa-whatsapp
 
     # PHOTO BEATY
-  - Name: PHOTO BEATY
-    Description: Lorem Ipsum is simply dummy text.
+  - Name: PHOTO BEAUTY
+    Description: Pacote de maquiagem + fotos para você que deseja ter uma experiência única e se sentir linda e confiante. Saiba mais.
     URL: https://wa.me
     Username: '+558396004966'
     Color: '#590219'
     Icon-Class: fab fa-whatsapp
 
     # MÉTODO AUTOBEATY
-  - Name: MÉTODO AUTOBEATY
-    Description: Lorem Ipsum is simply dummy text.
+  - Name: REVOLUCIONE SUA AUTOMAKE
+    Description: Sem previsão para novas turmas.
     URL: https://wa.me
     Username: '+558396004966'
     Color: '#590219'
     Icon-Class: fab fa-whatsapp
 
-    # CURSO VIP AUTOMAQUIAGEM
+    # CURSO VIP AUTOMAQUIAGEM 
   - Name: CURSO VIP AUTOMAQUIAGEM
-    Description: Lorem Ipsum is simply dummy text.
+    Description: Para você aprender maquiagem para a vida real com realce e praticidade e acabar com o medo de errar  os produtos e sair maquiada. Saiba mais.
     URL: https://wa.me
     Username: '+558396004966'
     Color: '#590219'
